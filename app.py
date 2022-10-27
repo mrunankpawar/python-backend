@@ -29,3 +29,24 @@
 # print(name.replace("M", "K"))
 
 # //TODO: Numbers in Python
+
+from math import *
+
+number = 20
+number2 = str(number)
+print(78)
+print(78 + 54)
+print(78 - 54.34523)
+print(20 / 6)
+print(20 % 6)
+print("The number is : " + number2)
+print(abs(-5))
+print(max(10, 6, -12, 15))
+print(min(10, 6, -12, 15))
+print(round(3.6))
+print(round(3.2)) 
+print(bin(5401))
+print(sqrt(100))
+
+
+
