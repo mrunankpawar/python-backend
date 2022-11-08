@@ -62,3 +62,16 @@
 # word2 = input("Enter the word to replace it with: ")
 # print(sentence.replace(word1, word2))
 
+# // TODO: Lists in Python
+
+# countries = ['India', 10, True, 'United States']
+# countries2 = list(('India', 10, True, 'United States'))
+# countries[0] = "South Africa"
+# print(countries[2][:3])
+# print(countries[1:])
+# print(countries[1:3])
+# print(countries)
+# print(type(countries))
+# print(countries[-1])
+# print(len(countries))
+
