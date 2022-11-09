@@ -117,17 +117,25 @@ list2 = ['banana', 'apple', 'mango', 'oranges', 'mango']
 
 # TODO: Functions in Python
 
-def greetings_function(name, age):
-    print("Welcome " + str(name) + '. You are ' + str(age) + ' years old!')
+# def greetings_function(name, age):
+#     print("Welcome " + str(name) + '. You are ' + str(age) + ' years old!')
 
-name = input("Enter your name: ")
-age = input("Enter your age: ")
-greetings_function(name, age)
+# name = input("Enter your name: ")
+# age = input("Enter your age: ")
+# greetings_function(name, age)
 
 # def greeting_function(*names):
 #     print("Welcome " + names[2])
 
 # greeting_function('Mrunank', 'Vaibhav', 'Piyush')
 
+# TODO: Return keyword 
 
+def add_num(num1, num2):
+    return num1 + num2
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+print(add_num(num1,num2))
 
