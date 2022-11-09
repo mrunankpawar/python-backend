@@ -75,3 +75,49 @@
 # print(countries[-1])
 # print(len(countries))
 
+# //TODO: List methods 
+
+list1 = [3, 2, 4, 1, 5]
+list2 = ['banana', 'apple', 'mango', 'oranges', 'mango']
+
+# list2.append('cherry')
+# list2.insert(1, 'cherry')
+# list2.remove('banana')
+# list2.clear()
+# print(list2.index('mango'))
+# print(list2.count('mango'))
+# list1.sort()
+# print(list1)
+# list3 = list2.copy()
+# list2.reverse()
+# list2.pop()
+# print(list2)
+# list2.pop(2)
+# del list2[0]
+# print(list3)
+# print(list2)
+
+
+# list1.extend(list2)
+# print(list1)
+
+# TODO: Tuples in python
+
+# numbers = (1, 2, 3, 1)
+# tuple_contructor = tuple((1, 3, 'hello', False))
+# strings = ('home', 'house', 'villa', True, 3)
+# print(strings)
+# print(type(tuple_contructor))
+# three_numbers[1] = 5 [ERROR] 
+# print(numbers)
+# print(numbers[0])
+# print(type(numbers))
+# print(len(numbers))
+# print(type(strings[3]))
+
+# TODO: Functions in Python
+
+
+
+
+
